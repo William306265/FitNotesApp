@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FitNotesApp</string>
+    <string name="description">Fit Notes Image</string>
+    <string name="btn1">Add Exercise</string>
+</resources>
